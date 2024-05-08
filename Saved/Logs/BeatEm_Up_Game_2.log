@@ -1144,3 +1144,1439 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.08-14.45.29:238][773]LogSlate: Window 'Plugins' being destroyed
 [2024.05.08-14.45.29:238][773]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2024.05.08-14.47.08:889][179]LogDerivedDataCache: C:/Users/darru/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.037 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 516 files in 876 folders with total size 3 MiB.
+[2024.05.08-14.49.34:786][ 30]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.08-14.49.40:431][353]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.08-14.49.40:439][353]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.08-14.49.40:448][354]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.08-14.49.44:575][601]LogContentBrowser: Attempting asset rename: NewFolder -> PaperAssests
+[2024.05.08-14.49.44:576][601]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.08-15.47.08:885][ 39]LogDerivedDataCache: C:/Users/darru/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.033 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 516 files in 876 folders with total size 3 MiB.
+[2024.05.08-16.10.04:223][856]LogInterchangeEngine: [Pending] Importing
+[2024.05.08-16.10.04:224][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Attack.png]
+[2024.05.08-16.10.04:224][856]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.08-16.10.04:224][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Attack2.png]
+[2024.05.08-16.10.04:224][856]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.08-16.10.04:224][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Attack3.png]
+[2024.05.08-16.10.04:225][856]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.08-16.10.04:225][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Death.png]
+[2024.05.08-16.10.04:225][856]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.08-16.10.04:225][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Idle.png]
+[2024.05.08-16.10.04:225][856]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.05.08-16.10.04:225][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Shield.png]
+[2024.05.08-16.10.04:226][856]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.05.08-16.10.04:226][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Sword_sprite.png]
+[2024.05.08-16.10.04:226][856]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.10.04:226][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Take Hit.png]
+[2024.05.08-16.10.04:226][856]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.05.08-16.10.04:226][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Walk.png]
+[2024.05.08-16.10.04:231][856]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.04:234][856]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.04:234][856]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.04:235][856]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.04:235][856]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.04:235][856]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.04:235][856]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.04:236][856]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.04:236][856]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.04:239][857]LogTexture: Display: Building textures: /Game/PaperAssests/Attack.Attack (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.04:239][857]LogTexture: Display: Building textures: /Game/PaperAssests/Sword_sprite.Sword_sprite (BGRA8, 736x102 x1x1x1) (Required Memory Estimate: 2.258057 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.04:240][857]LogTexture: Display: Building textures: /Game/PaperAssests/Shield.Shield (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.04:240][857]LogTexture: Display: Building textures: /Game/PaperAssests/Take_Hit.Take_Hit (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.04:243][857]LogTexture: Display: Building textures: /Game/PaperAssests/Attack2.Attack2 (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.04:244][857]LogTexture: Display: Building textures: /Game/PaperAssests/Death.Death (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.04:244][857]LogTexture: Display: Building textures: /Game/PaperAssests/Walk.Walk (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.04:246][857]LogTexture: Display: Building textures: /Game/PaperAssests/Idle.Idle (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.04:246][857]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.10.04:247][857]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.05.08-16.10.04:247][857]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.05.08-16.10.04:247][857]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.08-16.10.04:247][857]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.08-16.10.04:247][857]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.08-16.10.04:247][857]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.08-16.10.04:247][857]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.05.08-16.10.04:247][857]LogTexture: Display: Building textures: /Game/PaperAssests/Attack3.Attack3 (BGRA8, 900x150 x1x1x1) (Required Memory Estimate: 4.010712 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.04:247][857]LogInterchangeEngine: [Success] Import Done
+[2024.05.08-16.10.04:279][857]LogInterchangeEngine: [Success] Import Done
+[2024.05.08-16.10.07:383][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.05.08-16.10.07:384][ 21]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.009
+[2024.05.08-16.10.07:385][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Attack2] ([1] browsable assets)...
+[2024.05.08-16.10.07:387][ 21]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Attack2.Attack2]
+[2024.05.08-16.10.07:387][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Attack2]
+[2024.05.08-16.10.07:387][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Attack2" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Attack2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.10.07:393][ 21]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.005374 seconds
+[2024.05.08-16.10.07:395][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Attack2_Auto1
+[2024.05.08-16.10.07:395][ 21]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack2_Auto105A2C0D8402D51B5C073FAB04EA09C3B.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Attack2_Auto1.uasset'
+[2024.05.08-16.10.07:396][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Attack3] ([1] browsable assets)...
+[2024.05.08-16.10.07:398][ 21]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Attack3.Attack3]
+[2024.05.08-16.10.07:398][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Attack3]
+[2024.05.08-16.10.07:398][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Attack3" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Attack3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.10.07:399][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Attack3_Auto1
+[2024.05.08-16.10.07:400][ 21]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack3_Auto10D8D6B5643BB7F5AD25F0685B0CCF038.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Attack3_Auto1.uasset'
+[2024.05.08-16.10.07:400][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Death] ([1] browsable assets)...
+[2024.05.08-16.10.07:402][ 21]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Death.Death]
+[2024.05.08-16.10.07:402][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Death]
+[2024.05.08-16.10.07:402][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Death" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Death_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.10.07:403][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Death_Auto1
+[2024.05.08-16.10.07:403][ 21]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Death_Auto13AC6BDB2482B355B64FDADB752A96DE2.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Death_Auto1.uasset'
+[2024.05.08-16.10.07:404][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Idle] ([1] browsable assets)...
+[2024.05.08-16.10.07:406][ 21]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Idle.Idle]
+[2024.05.08-16.10.07:406][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Idle]
+[2024.05.08-16.10.07:406][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Idle" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Idle_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.10.07:407][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Idle_Auto1
+[2024.05.08-16.10.07:407][ 21]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Idle_Auto1FB4F4E7D498E144AA57173A98FF5705D.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Idle_Auto1.uasset'
+[2024.05.08-16.10.07:407][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Shield] ([1] browsable assets)...
+[2024.05.08-16.10.07:409][ 21]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Shield.Shield]
+[2024.05.08-16.10.07:409][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Shield]
+[2024.05.08-16.10.07:409][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Shield" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Shield_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.10.07:410][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Shield_Auto1
+[2024.05.08-16.10.07:410][ 21]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Shield_Auto1FEFFE15B43764E18DB6720BF9927B1C7.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Shield_Auto1.uasset'
+[2024.05.08-16.10.07:411][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Attack] ([1] browsable assets)...
+[2024.05.08-16.10.07:412][ 21]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Attack.Attack]
+[2024.05.08-16.10.07:412][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Attack]
+[2024.05.08-16.10.07:412][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Attack" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Attack_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.10.07:413][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Attack_Auto1
+[2024.05.08-16.10.07:413][ 21]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Auto1CF1C2C3F472013B4EA21CAB52A88B5BE.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Attack_Auto1.uasset'
+[2024.05.08-16.10.07:413][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Sword_sprite] ([1] browsable assets)...
+[2024.05.08-16.10.07:415][ 21]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Sword_sprite.Sword_sprite]
+[2024.05.08-16.10.07:415][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Sword_sprite]
+[2024.05.08-16.10.07:415][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Sword_sprite" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Sword_sprite_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.10.07:416][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Sword_sprite_Auto1
+[2024.05.08-16.10.07:416][ 21]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Sword_sprite_Auto1EE85AAA44028B816DABB8BB0A8F46688.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Sword_sprite_Auto1.uasset'
+[2024.05.08-16.10.07:416][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Take_Hit] ([1] browsable assets)...
+[2024.05.08-16.10.07:419][ 21]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Take_Hit.Take_Hit]
+[2024.05.08-16.10.07:419][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Take_Hit]
+[2024.05.08-16.10.07:419][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Take_Hit" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Take_Hit_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.10.07:420][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Take_Hit_Auto1
+[2024.05.08-16.10.07:420][ 21]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Take_Hit_Auto15D82365543B487ABB6014B828982B5E9.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Take_Hit_Auto1.uasset'
+[2024.05.08-16.10.07:421][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Walk] ([1] browsable assets)...
+[2024.05.08-16.10.07:422][ 21]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Walk.Walk]
+[2024.05.08-16.10.07:422][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Walk]
+[2024.05.08-16.10.07:422][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Walk" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Walk_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.10.07:423][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Walk_Auto1
+[2024.05.08-16.10.07:423][ 21]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Walk_Auto1C08CF5394DE798AF835F41B80B7337BB.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Walk_Auto1.uasset'
+[2024.05.08-16.10.07:424][ 21]LogFileHelpers: Auto-saving content packages took 0.040
+[2024.05.08-16.10.20:485][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.05.08-16.10.21:792][803]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.08-16.10.21:806][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.08-16.10.21:809][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.08-16.10.21:811][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.05.08-16.10.43:693][193]LogInterchangeEngine: [Pending] Importing
+[2024.05.08-16.10.43:693][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Attack.png]
+[2024.05.08-16.10.43:693][193]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.08-16.10.43:693][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Attack2.png]
+[2024.05.08-16.10.43:694][193]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.08-16.10.43:694][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Attack3.png]
+[2024.05.08-16.10.43:694][193]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.08-16.10.43:694][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Death.png]
+[2024.05.08-16.10.43:694][193]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.08-16.10.43:694][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Idle.png]
+[2024.05.08-16.10.43:695][193]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.05.08-16.10.43:695][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Shield.png]
+[2024.05.08-16.10.43:695][193]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.05.08-16.10.43:695][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Sword_sprite.png]
+[2024.05.08-16.10.43:695][193]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.10.43:695][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Take Hit.png]
+[2024.05.08-16.10.43:695][193]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.05.08-16.10.43:696][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Skeleton/Walk.png]
+[2024.05.08-16.10.43:700][194]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.43:700][194]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.43:700][194]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.43:701][194]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.43:701][194]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.43:701][194]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.43:701][194]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.43:702][194]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.43:702][194]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.43:702][194]LogTexture: Display: Building textures: /Game/PaperAssests/Skeleton/Attack3.Attack3 (BGRA8, 900x150 x1x1x1) (Required Memory Estimate: 4.010712 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.43:703][194]LogTexture: Display: Building textures: /Game/PaperAssests/Skeleton/Attack.Attack (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.43:704][194]LogTexture: Display: Building textures: /Game/PaperAssests/Skeleton/Death.Death (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.43:705][194]LogTexture: Display: Building textures: /Game/PaperAssests/Skeleton/Shield.Shield (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.43:707][194]LogTexture: Display: Building textures: /Game/PaperAssests/Skeleton/Take_Hit.Take_Hit (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.43:707][194]LogTexture: Display: Building textures: /Game/PaperAssests/Skeleton/Idle.Idle (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.43:708][194]LogTexture: Display: Building textures: /Game/PaperAssests/Skeleton/Attack2.Attack2 (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.43:709][194]LogTexture: Display: Building textures: /Game/PaperAssests/Skeleton/Walk.Walk (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.43:709][194]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.10.43:709][194]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.05.08-16.10.43:709][194]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.05.08-16.10.43:709][194]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.08-16.10.43:709][194]LogTexture: Display: Building textures: /Game/PaperAssests/Skeleton/Sword_sprite.Sword_sprite (BGRA8, 736x102 x1x1x1) (Required Memory Estimate: 2.258057 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.43:710][194]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.08-16.10.43:710][194]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.08-16.10.43:710][194]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.08-16.10.43:710][194]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.05.08-16.10.43:723][194]LogInterchangeEngine: [Success] Import Done
+[2024.05.08-16.10.43:750][194]LogInterchangeEngine: [Success] Import Done
+[2024.05.08-16.10.58:237][808]LogInterchangeEngine: [Pending] Importing
+[2024.05.08-16.10.58:237][808]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Mushroom/Attack.png]
+[2024.05.08-16.10.58:238][808]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.08-16.10.58:238][808]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Mushroom/Attack2.png]
+[2024.05.08-16.10.58:238][808]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.08-16.10.58:238][808]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Mushroom/Attack3.png]
+[2024.05.08-16.10.58:238][808]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.08-16.10.58:238][808]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Mushroom/Death.png]
+[2024.05.08-16.10.58:239][808]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.08-16.10.58:239][808]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Mushroom/Idle.png]
+[2024.05.08-16.10.58:239][808]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.05.08-16.10.58:239][808]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Mushroom/Projectile_sprite.png]
+[2024.05.08-16.10.58:239][808]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.05.08-16.10.58:239][808]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Mushroom/Run.png]
+[2024.05.08-16.10.58:240][808]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.10.58:240][808]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...res_Fantasy/Mushroom/Take Hit.png]
+[2024.05.08-16.10.58:251][809]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.58:251][809]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.58:252][809]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.58:252][809]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.58:252][809]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.58:252][809]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.58:252][809]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.58:253][809]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.10.58:265][809]LogTexture: Display: Building textures: /Game/PaperAssests/Mushroom/Projectile_sprite.Projectile_sprite (BGRA8, 400x50 x1x1x1) (Required Memory Estimate: 0.647408 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.58:266][809]LogTexture: Display: Building textures: /Game/PaperAssests/Mushroom/Idle.Idle (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.58:266][809]LogTexture: Display: Building textures: /Game/PaperAssests/Mushroom/Attack2.Attack2 (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.58:267][809]LogTexture: Display: Building textures: /Game/PaperAssests/Mushroom/Death.Death (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.58:268][809]LogTexture: Display: Building textures: /Game/PaperAssests/Mushroom/Run.Run (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.58:268][809]LogTexture: Display: Building textures: /Game/PaperAssests/Mushroom/Attack3.Attack3 (BGRA8, 1650x150 x1x1x1) (Required Memory Estimate: 7.300888 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.58:269][809]LogTexture: Display: Building textures: /Game/PaperAssests/Mushroom/Attack.Attack (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.58:270][809]LogTexture: Display: Building textures: /Game/PaperAssests/Mushroom/Take_Hit.Take_Hit (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.10.58:275][809]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.10.58:604][809]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.05.08-16.10.58:604][809]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.05.08-16.10.58:604][809]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.08-16.10.58:604][809]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.08-16.10.58:604][809]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.08-16.10.58:604][809]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.08-16.10.58:604][809]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.05.08-16.10.58:616][809]LogInterchangeEngine: [Success] Import Done
+[2024.05.08-16.10.58:662][810]LogInterchangeEngine: [Success] Import Done
+[2024.05.08-16.10.58:943][810]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092503957458207
+[2024.05.08-16.10.58:943][810]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.05.08-16.11.12:187][206]LogInterchangeEngine: [Pending] Importing
+[2024.05.08-16.11.12:188][206]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...s_Fantasy/Flying eye/Attack.png]
+[2024.05.08-16.11.12:188][206]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.08-16.11.12:188][206]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...s_Fantasy/Flying eye/Attack2.png]
+[2024.05.08-16.11.12:188][206]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.08-16.11.12:188][206]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...s_Fantasy/Flying eye/Attack3.png]
+[2024.05.08-16.11.12:189][206]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.08-16.11.12:189][206]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...s_Fantasy/Flying eye/Death.png]
+[2024.05.08-16.11.12:189][206]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.08-16.11.12:189][206]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...s_Fantasy/Flying eye/Flight.png]
+[2024.05.08-16.11.12:189][206]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.05.08-16.11.12:189][206]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...s_Fantasy/Flying eye/projectile_sprite.png]
+[2024.05.08-16.11.12:189][206]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.05.08-16.11.12:189][206]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...s_Fantasy/Flying eye/Take Hit.png]
+[2024.05.08-16.11.12:190][206]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.11.12:190][206]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...tures_Fantasy/Goblin/Attack.png]
+[2024.05.08-16.11.12:190][206]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.05.08-16.11.12:190][206]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...tures_Fantasy/Goblin/Attack2.png]
+[2024.05.08-16.11.12:190][206]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.05.08-16.11.12:191][206]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.05.08-16.11.12:191][206]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.05.08-16.11.12:191][206]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.05.08-16.11.12:191][206]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.05.08-16.11.12:191][206]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.05.08-16.11.12:195][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:195][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:195][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:195][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:196][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:196][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:196][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:197][207]LogTexture: Display: Building textures: /Game/PaperAssests/Flying_eye/Attack3.Attack3 (BGRA8, 900x150 x1x1x1) (Required Memory Estimate: 4.010712 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:197][207]LogTexture: Display: Building textures: /Game/PaperAssests/Flying_eye/Death.Death (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:198][207]LogTexture: Display: Building textures: /Game/PaperAssests/Flying_eye/Attack.Attack (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:199][207]LogTexture: Display: Building textures: /Game/PaperAssests/Flying_eye/Attack2.Attack2 (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:199][207]LogTexture: Display: Building textures: /Game/PaperAssests/Flying_eye/projectile_sprite.projectile_sprite (TFO_AutoDXT, 384x48 x1x1x1) (Required Memory Estimate: 2.96875 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:199][207]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.11.12:199][207]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.05.08-16.11.12:199][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...tures_Fantasy/Goblin/Attack3.png]
+[2024.05.08-16.11.12:201][207]LogTexture: Display: Building textures: /Game/PaperAssests/Flying_eye/Take_Hit.Take_Hit (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:201][207]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.11.12:201][207]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.05.08-16.11.12:201][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...tures_Fantasy/Goblin/Bomb_sprite.png]
+[2024.05.08-16.11.12:201][207]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.11.12:201][207]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.05.08-16.11.12:201][207]LogTexture: Display: Building textures: /Game/PaperAssests/Flying_eye/Flight.Flight (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:201][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...tures_Fantasy/Goblin/Death.png]
+[2024.05.08-16.11.12:202][207]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.11.12:202][207]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.05.08-16.11.12:202][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...tures_Fantasy/Goblin/Idle.png]
+[2024.05.08-16.11.12:202][207]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.11.12:202][207]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.05.08-16.11.12:202][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...tures_Fantasy/Goblin/Run.png]
+[2024.05.08-16.11.12:202][207]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.11.12:202][207]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.05.08-16.11.12:202][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/darru/Docum...tures_Fantasy/Goblin/Take Hit.png]
+[2024.05.08-16.11.12:202][207]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.11.12:207][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:212][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:212][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:213][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:213][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:213][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:214][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:215][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.08-16.11.12:227][207]LogTexture: Display: Building textures: /Game/PaperAssests/Goblin/Attack.Attack (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:227][207]LogTexture: Display: Building textures: /Game/PaperAssests/Goblin/Death.Death (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:228][207]LogTexture: Display: Building textures: /Game/PaperAssests/Goblin/Idle.Idle (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:229][207]LogTexture: Display: Building textures: /Game/PaperAssests/Goblin/Bomb_sprite.Bomb_sprite (TFO_AutoDXT, 1900x100 x1x1x1) (Required Memory Estimate: 30.020465 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:230][207]LogTexture: Display: Building textures: /Game/PaperAssests/Goblin/Attack3.Attack3 (BGRA8, 1800x150 x1x1x1) (Required Memory Estimate: 7.958923 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:230][207]LogTexture: Display: Building textures: /Game/PaperAssests/Goblin/Attack2.Attack2 (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:231][207]LogTexture: Display: Building textures: /Game/PaperAssests/Goblin/Take_Hit.Take_Hit (BGRA8, 600x150 x1x1x1) (Required Memory Estimate: 2.694641 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:232][207]LogTexture: Display: Building textures: /Game/PaperAssests/Goblin/Run.Run (BGRA8, 1200x150 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.05.08-16.11.12:238][207]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.08-16.11.12:539][207]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.05.08-16.11.12:539][207]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.05.08-16.11.12:539][207]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.08-16.11.12:539][207]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.08-16.11.12:539][207]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.08-16.11.12:539][207]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.08-16.11.12:539][207]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.05.08-16.11.12:555][207]LogInterchangeEngine: [Success] Import Done
+[2024.05.08-16.11.12:599][208]LogInterchangeEngine: [Success] Import Done
+[2024.05.08-16.12.20:514][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.08-16.12.21:445][ 57]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.08-16.12.21:455][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.05.08-16.12.21:459][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.08-16.12.21:461][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.05.08-16.12.24:238][191]LogSlate: Took 0.004850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.08-16.12.24:240][191]LogViewport: Scene viewport resized to 1618x1394, mode Windowed.
+[2024.05.08-16.12.24:257][192]LogViewport: Scene viewport resized to 1407x1394, mode Windowed.
+[2024.05.08-16.12.24:305][193]LogViewport: Scene viewport resized to 1391x1394, mode Windowed.
+[2024.05.08-16.12.47:688][ 42]LogSlate: Window 'Extract sprites' being destroyed
+[2024.05.08-16.13.07:636][ 31]LogContentBrowser: Deferred new asset file creation: Walk1
+[2024.05.08-16.13.07:649][ 31]LogContentBrowser: Creating deferred item: Walk1
+[2024.05.08-16.13.07:668][ 32]LogContentBrowser: Renaming the item being created (Deferred Item: Walk1).
+[2024.05.08-16.13.21:738][875]LogContentBrowser: Attempting asset rename: Walk1 -> BP_SKELETON_WALK
+[2024.05.08-16.13.21:738][875]LogContentBrowser: End creating deferred item Walk1
+[2024.05.08-16.13.40:478][402]LogContentBrowser: Attempting asset rename: BP_SKELETON_WALK -> SKELETON_WALK
+[2024.05.08-16.13.40:513][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.13.40:577][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/SKELETON_WALK" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/SKELETON_WALK.uasset" SILENT=true
+[2024.05.08-16.13.40:579][402]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/SKELETON_WALK
+[2024.05.08-16.13.40:579][402]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/SKELETON_WALK434F04444225DE4B778FC094AB65AB48.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/SKELETON_WALK.uasset'
+[2024.05.08-16.13.40:587][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms
+[2024.05.08-16.13.40:592][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.08-16.13.40:594][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.08-16.13.40:596][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.05.08-16.13.40:598][402]AssetCheck: New page: Asset Save: SKELETON_WALK
+[2024.05.08-16.13.40:598][402]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/PaperAssests/Skeleton/SKELETON_WALK.SKELETON_WALK
+[2024.05.08-16.13.46:923][751]LogContentBrowser: Attempting asset rename: SKELETON_WALK -> S_SKELETON_WALK
+[2024.05.08-16.13.46:944][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.13.47:006][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/S_SKELETON_WALK" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/S_SKELETON_WALK.uasset" SILENT=true
+[2024.05.08-16.13.47:006][751]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/S_SKELETON_WALK
+[2024.05.08-16.13.47:006][751]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/S_SKELETON_WALK2000A98D4F17C901E2DD2D8568FB7510.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/S_SKELETON_WALK.uasset'
+[2024.05.08-16.13.47:015][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 146 ms)
+[2024.05.08-16.13.47:020][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.08-16.13.47:022][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.08-16.13.47:024][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.05.08-16.13.47:026][751]AssetCheck: New page: Asset Save: S_SKELETON_WALK
+[2024.05.08-16.13.47:026][751]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/PaperAssests/Skeleton/S_SKELETON_WALK.S_SKELETON_WALK
+[2024.05.08-16.14.12:716][631]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PaperAssests/Skeleton/S_SKELETON_WALK.S_SKELETON_WALK
+[2024.05.08-16.14.12:717][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-16.14.12:717][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-16.14.12:809][631]LogViewport: Scene viewport resized to 1769x861, mode Windowed.
+[2024.05.08-16.14.12:816][631]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.08-16.14.12:959][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-16.14.21:998][164]LogViewport: Scene viewport resized to 1769x862, mode Windowed.
+[2024.05.08-16.14.22:032][164]LogViewport: Scene viewport resized to 1769x883, mode Windowed.
+[2024.05.08-16.14.22:066][164]LogViewport: Scene viewport resized to 1769x914, mode Windowed.
+[2024.05.08-16.14.22:099][164]LogViewport: Scene viewport resized to 1769x947, mode Windowed.
+[2024.05.08-16.14.22:136][164]LogViewport: Scene viewport resized to 1769x970, mode Windowed.
+[2024.05.08-16.14.22:175][164]LogViewport: Scene viewport resized to 1769x982, mode Windowed.
+[2024.05.08-16.14.22:211][164]LogViewport: Scene viewport resized to 1769x988, mode Windowed.
+[2024.05.08-16.14.22:441][164]LogViewport: Scene viewport resized to 1769x986, mode Windowed.
+[2024.05.08-16.14.22:467][164]LogViewport: Scene viewport resized to 1769x961, mode Windowed.
+[2024.05.08-16.14.22:498][164]LogViewport: Scene viewport resized to 1769x934, mode Windowed.
+[2024.05.08-16.14.22:528][164]LogViewport: Scene viewport resized to 1769x906, mode Windowed.
+[2024.05.08-16.14.22:560][164]LogViewport: Scene viewport resized to 1769x872, mode Windowed.
+[2024.05.08-16.14.22:590][164]LogViewport: Scene viewport resized to 1769x848, mode Windowed.
+[2024.05.08-16.14.22:621][164]LogViewport: Scene viewport resized to 1769x837, mode Windowed.
+[2024.05.08-16.14.22:653][164]LogViewport: Scene viewport resized to 1769x836, mode Windowed.
+[2024.05.08-16.14.40:107][118]LogSlate: Window 'S_SKELETON_WALK' being destroyed
+[2024.05.08-16.14.40:112][118]LogSlate: Window 'S_SKELETON_WALK' being destroyed
+[2024.05.08-16.14.40:117][118]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-16.14.40:117][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-16.14.48:671][625]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PaperAssests/Skeleton/S_SKELETON_WALK.S_SKELETON_WALK
+[2024.05.08-16.14.48:672][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-16.14.48:672][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-16.14.48:770][625]LogViewport: Scene viewport resized to 1774x842, mode Windowed.
+[2024.05.08-16.16.01:082][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.16.01:161][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/S_SKELETON_WALK" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/S_SKELETON_WALK.uasset" SILENT=true
+[2024.05.08-16.16.01:162][775]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/S_SKELETON_WALK
+[2024.05.08-16.16.01:162][775]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/S_SKELETON_WALK52F93418456330B115E0F1B02A8057AB.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/S_SKELETON_WALK.uasset'
+[2024.05.08-16.16.01:171][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 234 ms)
+[2024.05.08-16.16.01:172][775]AssetCheck: New page: Asset Save: S_SKELETON_WALK
+[2024.05.08-16.16.01:172][775]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/PaperAssests/Skeleton/S_SKELETON_WALK.S_SKELETON_WALK
+[2024.05.08-16.16.02:183][836]LogSlate: Window 'S_SKELETON_WALK' being destroyed
+[2024.05.08-16.16.02:189][836]LogSlate: Window 'S_SKELETON_WALK' being destroyed
+[2024.05.08-16.16.02:192][836]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-16.16.02:192][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-16.16.21:935][810]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.08-16.16.21:951][810]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.08-16.16.22:028][811]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.08-16.16.27:074][114]LogContentBrowser: Attempting asset rename: NewFolder -> Walk
+[2024.05.08-16.16.27:075][114]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.08-16.16.30:194][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.16.30:266][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Walk/S_SKELETON_WALK" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/S_SKELETON_WALK.uasset" SILENT=true
+[2024.05.08-16.16.30:267][284]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Walk/S_SKELETON_WALK
+[2024.05.08-16.16.30:267][284]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/S_SKELETON_WALKB3CBCF7C4111FDC36D843591CD42D073.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/S_SKELETON_WALK.uasset'
+[2024.05.08-16.16.30:275][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 315 ms)
+[2024.05.08-16.16.30:281][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.05.08-16.16.30:284][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.08-16.16.30:286][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.05.08-16.16.30:325][284]AssetCheck: New page: Asset Save: S_SKELETON_WALK
+[2024.05.08-16.16.30:325][284]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/PaperAssests/Skeleton/Walk/S_SKELETON_WALK.S_SKELETON_WALK
+[2024.05.08-16.16.39:696][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.16.39:774][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Walk/S_SKELETON_WALK" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/S_SKELETON_WALK.uasset" SILENT=true
+[2024.05.08-16.16.39:775][824]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Walk/S_SKELETON_WALK
+[2024.05.08-16.16.39:776][824]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/S_SKELETON_WALK22EFD6F34339C922C6C052ABAB6D90AA.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/S_SKELETON_WALK.uasset'
+[2024.05.08-16.16.39:778][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Walk/Walk" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/Walk.uasset" SILENT=true
+[2024.05.08-16.16.39:781][824]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Walk/Walk
+[2024.05.08-16.16.39:781][824]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/WalkDED4B9754FDB1E90A8A894B30BFB3D40.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/Walk.uasset'
+[2024.05.08-16.16.39:785][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Walk/Walk_Sprite_0" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/Walk_Sprite_0.uasset" SILENT=true
+[2024.05.08-16.16.39:786][824]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Walk/Walk_Sprite_0
+[2024.05.08-16.16.39:786][824]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Walk_Sprite_061ED965547A34E8F99CC4E9BCEE51228.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/Walk_Sprite_0.uasset'
+[2024.05.08-16.16.39:789][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Walk/Walk_Sprite_1" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/Walk_Sprite_1.uasset" SILENT=true
+[2024.05.08-16.16.39:791][824]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Walk/Walk_Sprite_1
+[2024.05.08-16.16.39:791][824]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Walk_Sprite_16312528C4A9CDF05082BBBA2F12FD478.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/Walk_Sprite_1.uasset'
+[2024.05.08-16.16.39:794][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Walk/Walk_Sprite_2" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/Walk_Sprite_2.uasset" SILENT=true
+[2024.05.08-16.16.39:795][824]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Walk/Walk_Sprite_2
+[2024.05.08-16.16.39:795][824]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Walk_Sprite_26D82A77C48D557CE477C60BD3EB7D242.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/Walk_Sprite_2.uasset'
+[2024.05.08-16.16.39:797][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Walk/Walk_Sprite_3" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/Walk_Sprite_3.uasset" SILENT=true
+[2024.05.08-16.16.39:798][824]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Walk/Walk_Sprite_3
+[2024.05.08-16.16.39:798][824]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Walk_Sprite_32662EC1C49FCD73891D1CF99BDAD8FE8.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Walk/Walk_Sprite_3.uasset'
+[2024.05.08-16.16.39:807][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 426 ms)
+[2024.05.08-16.16.39:815][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.08-16.16.39:818][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.05.08-16.16.39:820][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.08-16.16.39:858][824]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.08-16.16.39:858][824]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/PaperAssests/Skeleton/Walk/S_SKELETON_WALK.S_SKELETON_WALK
+[2024.05.08-16.16.39:858][824]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Skeleton/Walk/Walk.Walk
+[2024.05.08-16.16.39:858][824]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssests/Skeleton/Walk/Walk_Sprite_0.Walk_Sprite_0
+[2024.05.08-16.16.39:858][824]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssests/Skeleton/Walk/Walk_Sprite_1.Walk_Sprite_1
+[2024.05.08-16.16.39:858][824]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssests/Skeleton/Walk/Walk_Sprite_2.Walk_Sprite_2
+[2024.05.08-16.16.39:858][824]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssests/Skeleton/Walk/Walk_Sprite_3.Walk_Sprite_3
+[2024.05.08-16.16.46:282][192]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.08-16.16.46:302][192]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.08-16.16.46:369][193]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.08-16.16.51:463][499]LogContentBrowser: Attempting asset rename: NewFolder -> Attack1
+[2024.05.08-16.16.51:463][499]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.08-16.16.54:701][682]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.08-16.16.54:719][682]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.08-16.16.54:793][683]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.08-16.16.57:549][849]LogContentBrowser: Attempting asset rename: NewFolder -> Attack2
+[2024.05.08-16.16.57:549][849]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.08-16.16.59:838][976]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.08-16.16.59:854][976]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.08-16.16.59:925][977]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.08-16.17.01:765][ 88]LogContentBrowser: Attempting asset rename: NewFolder -> Attack3
+[2024.05.08-16.17.01:765][ 88]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.08-16.17.04:173][212]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.08-16.17.04:190][212]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.08-16.17.04:256][213]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.08-16.17.08:718][481]LogContentBrowser: Attempting asset rename: NewFolder -> Idle
+[2024.05.08-16.17.08:718][481]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.08-16.17.11:227][623]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.08-16.17.11:248][623]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.08-16.17.11:312][624]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.08-16.17.12:355][687]LogContentBrowser: Attempting asset rename: NewFolder -> Death
+[2024.05.08-16.17.12:355][687]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.08-16.17.15:705][877]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.08-16.17.15:723][877]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.08-16.17.15:790][878]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.08-16.17.18:381][ 34]LogContentBrowser: Attempting asset rename: NewFolder -> Take_hit
+[2024.05.08-16.17.18:382][ 34]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.08-16.17.27:217][547]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.08-16.17.27:237][547]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.08-16.17.27:315][548]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.08-16.17.28:886][643]LogContentBrowser: Attempting asset rename: NewFolder -> Shield
+[2024.05.08-16.17.28:886][643]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.08-16.17.37:853][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.17.37:936][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Attack3/Attack3" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack3/Attack3.uasset" SILENT=true
+[2024.05.08-16.17.37:939][163]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack3/Attack3
+[2024.05.08-16.17.37:939][163]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack34930243C43224E4D3F22A9B74AF9A4CE.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack3/Attack3.uasset'
+[2024.05.08-16.17.37:948][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 521 ms)
+[2024.05.08-16.17.37:954][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.08-16.17.37:956][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.08-16.17.37:958][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.05.08-16.17.37:996][163]AssetCheck: New page: Asset Save: Attack3
+[2024.05.08-16.17.37:996][163]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Skeleton/Attack3/Attack3.Attack3
+[2024.05.08-16.17.40:190][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.17.40:270][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Attack1/Attack" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack.uasset" SILENT=true
+[2024.05.08-16.17.40:273][283]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack1/Attack
+[2024.05.08-16.17.40:273][283]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/AttackE987635F477175B4794053827EE18F5F.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack.uasset'
+[2024.05.08-16.17.40:282][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 613 ms)
+[2024.05.08-16.17.40:286][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.08-16.17.40:289][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.08-16.17.40:292][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.08-16.17.40:330][283]AssetCheck: New page: Asset Save: Attack
+[2024.05.08-16.17.40:330][283]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Skeleton/Attack1/Attack.Attack
+[2024.05.08-16.17.42:338][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.17.42:416][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Attack2/Attack2" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack2/Attack2.uasset" SILENT=true
+[2024.05.08-16.17.42:419][392]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack2/Attack2
+[2024.05.08-16.17.42:419][392]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack2B4B3E0774F033CFE7EB4E0A82E22FCE5.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack2/Attack2.uasset'
+[2024.05.08-16.17.42:429][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 702 ms)
+[2024.05.08-16.17.42:433][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.08-16.17.42:436][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.08-16.17.42:438][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.08-16.17.42:479][392]AssetCheck: New page: Asset Save: Attack2
+[2024.05.08-16.17.42:479][392]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Skeleton/Attack2/Attack2.Attack2
+[2024.05.08-16.17.47:614][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.17.47:693][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Death/Death" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Death/Death.uasset" SILENT=true
+[2024.05.08-16.17.47:695][682]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Death/Death
+[2024.05.08-16.17.47:695][682]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Death090C8D8E479D78E44E89BFB28DCE58D9.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Death/Death.uasset'
+[2024.05.08-16.17.47:704][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 794 ms)
+[2024.05.08-16.17.47:709][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.08-16.17.47:712][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.05.08-16.17.47:715][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.05.08-16.17.47:751][682]AssetCheck: New page: Asset Save: Death
+[2024.05.08-16.17.47:751][682]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Skeleton/Death/Death.Death
+[2024.05.08-16.17.50:873][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.17.50:953][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Shield/Shield" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Shield/Shield.uasset" SILENT=true
+[2024.05.08-16.17.50:955][859]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Shield/Shield
+[2024.05.08-16.17.50:955][859]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/ShieldFFD5C823446255B9FC0BF797B76072D2.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Shield/Shield.uasset'
+[2024.05.08-16.17.50:962][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 883 ms)
+[2024.05.08-16.17.50:967][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.08-16.17.50:969][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.08-16.17.50:973][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.08-16.17.51:013][859]AssetCheck: New page: Asset Save: Shield
+[2024.05.08-16.17.51:013][859]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Skeleton/Shield/Shield.Shield
+[2024.05.08-16.17.52:747][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.17.52:821][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Idle/Idle" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Idle/Idle.uasset" SILENT=true
+[2024.05.08-16.17.52:823][951]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Idle/Idle
+[2024.05.08-16.17.52:823][951]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/IdleFBE1AD1A4896699E1B7F96A18BF3161B.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Idle/Idle.uasset'
+[2024.05.08-16.17.52:830][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 966 ms)
+[2024.05.08-16.17.52:834][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.08-16.17.52:838][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.08-16.17.52:839][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.05.08-16.17.52:879][951]AssetCheck: New page: Asset Save: Idle
+[2024.05.08-16.17.52:880][951]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Skeleton/Idle/Idle.Idle
+[2024.05.08-16.18.02:817][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.18.02:896][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Take_hit/Take_Hit" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Take_hit/Take_Hit.uasset" SILENT=true
+[2024.05.08-16.18.02:899][534]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Take_hit/Take_Hit
+[2024.05.08-16.18.02:899][534]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Take_Hit4CAB7E6841C2F854DA9E788F23710087.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Take_hit/Take_Hit.uasset'
+[2024.05.08-16.18.02:906][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.05 sec)
+[2024.05.08-16.18.02:909][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.05.08-16.18.02:914][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.08-16.18.02:916][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.08-16.18.02:954][534]AssetCheck: New page: Asset Save: Take_Hit
+[2024.05.08-16.18.02:954][534]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Skeleton/Take_hit/Take_Hit.Take_Hit
+[2024.05.08-16.18.07:040][760]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.08-16.18.07:059][760]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.08-16.18.07:134][761]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.08-16.18.10:664][973]LogContentBrowser: Attempting asset rename: NewFolder -> Sword
+[2024.05.08-16.18.10:664][973]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.08-16.18.13:192][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.18.13:270][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Sword/Sword_sprite" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Sword/Sword_sprite.uasset" SILENT=true
+[2024.05.08-16.18.13:272][117]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Sword/Sword_sprite
+[2024.05.08-16.18.13:272][117]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Sword_sprite30414F30424BCE4D8FB1A58817F2D309.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Sword/Sword_sprite.uasset'
+[2024.05.08-16.18.13:281][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.14 sec)
+[2024.05.08-16.18.13:286][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.08-16.18.13:290][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.08-16.18.13:291][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.05.08-16.18.13:332][117]AssetCheck: New page: Asset Save: Sword_sprite
+[2024.05.08-16.18.13:332][117]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Skeleton/Sword/Sword_sprite.Sword_sprite
+[2024.05.08-16.18.14:357][175]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssests/Skeleton/Sword/Sword_sprite.Sword_sprite
+[2024.05.08-16.18.14:544][175]LogViewport: Scene viewport resized to 1651x1108, mode Windowed.
+[2024.05.08-16.18.16:092][263]LogViewport: Scene viewport resized to 1651x1084, mode Windowed.
+[2024.05.08-16.18.21:221][571]LogSlate: Window 'Sword_sprite' being destroyed
+[2024.05.08-16.18.21:226][571]LogSlate: Window 'Sword_sprite' being destroyed
+[2024.05.08-16.18.29:060][996]LogViewport: Scene viewport resized to 1618x1394, mode Windowed.
+[2024.05.08-16.18.29:117][997]LogViewport: Scene viewport resized to 1407x1394, mode Windowed.
+[2024.05.08-16.18.29:154][998]LogViewport: Scene viewport resized to 1391x1394, mode Windowed.
+[2024.05.08-16.18.45:796][987]LogSlate: Window 'Extract sprites' being destroyed
+[2024.05.08-16.18.48:978][175]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_6.Attack_Sprite_6
+[2024.05.08-16.18.48:979][175]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-16.18.48:979][175]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-16.18.49:099][175]LogViewport: Scene viewport resized to 1783x1122, mode Windowed.
+[2024.05.08-16.18.56:419][602]LogSlate: Window 'Attack_Sprite_6' being destroyed
+[2024.05.08-16.18.56:430][602]LogSlate: Window 'Attack_Sprite_6' being destroyed
+[2024.05.08-16.18.56:434][602]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-16.18.56:434][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-16.19.13:254][599]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssests/Skeleton/Attack1/Attack.Attack
+[2024.05.08-16.19.13:364][599]LogViewport: Scene viewport resized to 1660x1120, mode Windowed.
+[2024.05.08-16.19.15:506][724]LogSlate: Window 'Attack' being destroyed
+[2024.05.08-16.19.15:513][724]LogSlate: Window 'Attack' being destroyed
+[2024.05.08-16.19.19:621][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.05.08-16.19.20:767][969]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.08-16.19.20:781][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.08-16.19.20:785][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.08-16.19.20:787][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.05.08-16.19.24:451][168]LogViewport: Scene viewport resized to 1618x1394, mode Windowed.
+[2024.05.08-16.19.24:505][169]LogViewport: Scene viewport resized to 1407x1394, mode Windowed.
+[2024.05.08-16.19.24:538][170]LogViewport: Scene viewport resized to 1391x1394, mode Windowed.
+[2024.05.08-16.20.51:538][295]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.05.08-16.21.21:106][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.05.08-16.21.21:107][611]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.006
+[2024.05.08-16.21.21:108][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Skeleton/Attack1/Attack] ([1] browsable assets)...
+[2024.05.08-16.21.21:112][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Skeleton/Attack1/Attack.Attack]
+[2024.05.08-16.21.21:112][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Skeleton/Attack1/Attack]
+[2024.05.08-16.21.21:114][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Skeleton/Attack1/Attack_Auto2
+[2024.05.08-16.21.21:114][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Auto2305D4DB84B0A74C80AADC7BBFB0C4E9D.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Skeleton/Attack1/Attack_Auto2.uasset'
+[2024.05.08-16.21.21:114][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Mushroom/Attack] ([1] browsable assets)...
+[2024.05.08-16.21.21:118][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Mushroom/Attack.Attack]
+[2024.05.08-16.21.21:118][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Mushroom/Attack]
+[2024.05.08-16.21.21:118][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Mushroom/Attack" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Mushroom/Attack_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.21.21:119][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Mushroom/Attack_Auto2
+[2024.05.08-16.21.21:119][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Auto2CF673417477B65A97CF3B2BF3F418164.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Mushroom/Attack_Auto2.uasset'
+[2024.05.08-16.21.21:121][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Mushroom/Attack3] ([1] browsable assets)...
+[2024.05.08-16.21.21:135][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Mushroom/Attack3.Attack3]
+[2024.05.08-16.21.21:135][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Mushroom/Attack3]
+[2024.05.08-16.21.21:137][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Mushroom/Attack3_Auto2
+[2024.05.08-16.21.21:137][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack3_Auto2F6E7A84D4FD7AF3B6946AE8AACB75C8C.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Mushroom/Attack3_Auto2.uasset'
+[2024.05.08-16.21.21:138][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Mushroom/Attack2] ([1] browsable assets)...
+[2024.05.08-16.21.21:140][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Mushroom/Attack2.Attack2]
+[2024.05.08-16.21.21:140][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Mushroom/Attack2]
+[2024.05.08-16.21.21:142][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Mushroom/Attack2_Auto2
+[2024.05.08-16.21.21:142][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack2_Auto2B2245401482D75ED463AC78C10C322AB.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Mushroom/Attack2_Auto2.uasset'
+[2024.05.08-16.21.21:142][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Mushroom/Death] ([1] browsable assets)...
+[2024.05.08-16.21.21:146][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Mushroom/Death.Death]
+[2024.05.08-16.21.21:146][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Mushroom/Death]
+[2024.05.08-16.21.21:146][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Mushroom/Death" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Mushroom/Death_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.21.21:147][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Mushroom/Death_Auto2
+[2024.05.08-16.21.21:147][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Death_Auto2440956CD4E0E4312349EBDB330BA0C09.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Mushroom/Death_Auto2.uasset'
+[2024.05.08-16.21.21:148][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Mushroom/Idle] ([1] browsable assets)...
+[2024.05.08-16.21.21:151][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Mushroom/Idle.Idle]
+[2024.05.08-16.21.21:151][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Mushroom/Idle]
+[2024.05.08-16.21.21:151][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Mushroom/Idle" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Mushroom/Idle_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.21.21:154][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Mushroom/Idle_Auto2
+[2024.05.08-16.21.21:154][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Idle_Auto2A0AC630444068DE8ECCBD78CAADB2568.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Mushroom/Idle_Auto2.uasset'
+[2024.05.08-16.21.21:154][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Mushroom/Projectile_sprite] ([1] browsable assets)...
+[2024.05.08-16.21.21:157][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Mushroom/Projectile_sprite.Projectile_sprite]
+[2024.05.08-16.21.21:158][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Mushroom/Projectile_sprite]
+[2024.05.08-16.21.21:159][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Mushroom/Projectile_sprite_Auto2
+[2024.05.08-16.21.21:159][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Projectile_sprite_Auto2FE097CFB48E673A768AAC88F3722DAF3.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Mushroom/Projectile_sprite_Auto2.uasset'
+[2024.05.08-16.21.21:159][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Mushroom/Run] ([1] browsable assets)...
+[2024.05.08-16.21.21:162][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Mushroom/Run.Run]
+[2024.05.08-16.21.21:162][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Mushroom/Run]
+[2024.05.08-16.21.21:162][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Mushroom/Run" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Mushroom/Run_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.21.21:163][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Mushroom/Run_Auto2
+[2024.05.08-16.21.21:163][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Run_Auto2DBD7446F4220E37DC40617A60D00965F.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Mushroom/Run_Auto2.uasset'
+[2024.05.08-16.21.21:164][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Mushroom/Take_Hit] ([1] browsable assets)...
+[2024.05.08-16.21.21:167][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Mushroom/Take_Hit.Take_Hit]
+[2024.05.08-16.21.21:167][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Mushroom/Take_Hit]
+[2024.05.08-16.21.21:168][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Mushroom/Take_Hit_Auto2
+[2024.05.08-16.21.21:168][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Take_Hit_Auto25020457A496C5A23A4B13D8C65A9F5F9.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Mushroom/Take_Hit_Auto2.uasset'
+[2024.05.08-16.21.21:169][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Flying_eye/Attack] ([1] browsable assets)...
+[2024.05.08-16.21.21:172][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Flying_eye/Attack.Attack]
+[2024.05.08-16.21.21:172][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Flying_eye/Attack]
+[2024.05.08-16.21.21:173][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Flying_eye/Attack_Auto2
+[2024.05.08-16.21.21:173][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Auto2EE56F68744F1A2B757FDD5A107890B71.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Flying_eye/Attack_Auto2.uasset'
+[2024.05.08-16.21.21:174][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Flying_eye/Attack3] ([1] browsable assets)...
+[2024.05.08-16.21.21:179][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Flying_eye/Attack3.Attack3]
+[2024.05.08-16.21.21:179][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Flying_eye/Attack3]
+[2024.05.08-16.21.21:181][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Flying_eye/Attack3_Auto2
+[2024.05.08-16.21.21:181][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack3_Auto25C97FB09499C5E8279ECB98AB6844FA4.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Flying_eye/Attack3_Auto2.uasset'
+[2024.05.08-16.21.21:182][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Flying_eye/Attack2] ([1] browsable assets)...
+[2024.05.08-16.21.21:185][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Flying_eye/Attack2.Attack2]
+[2024.05.08-16.21.21:185][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Flying_eye/Attack2]
+[2024.05.08-16.21.21:186][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Flying_eye/Attack2_Auto2
+[2024.05.08-16.21.21:186][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack2_Auto2858DAE5B435AD2BC2D64EA8430B8015B.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Flying_eye/Attack2_Auto2.uasset'
+[2024.05.08-16.21.21:187][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Flying_eye/Death] ([1] browsable assets)...
+[2024.05.08-16.21.21:190][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Flying_eye/Death.Death]
+[2024.05.08-16.21.21:190][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Flying_eye/Death]
+[2024.05.08-16.21.21:191][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Flying_eye/Death_Auto2
+[2024.05.08-16.21.21:191][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Death_Auto2EC84E7AA41D68ADC9B5E25B7AC8EF720.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Flying_eye/Death_Auto2.uasset'
+[2024.05.08-16.21.21:191][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Flying_eye/Flight] ([1] browsable assets)...
+[2024.05.08-16.21.21:194][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Flying_eye/Flight.Flight]
+[2024.05.08-16.21.21:194][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Flying_eye/Flight]
+[2024.05.08-16.21.21:195][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Flying_eye/Flight_Auto2
+[2024.05.08-16.21.21:195][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Flight_Auto22E34624145A53AE90F2B5189BEED7DC6.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Flying_eye/Flight_Auto2.uasset'
+[2024.05.08-16.21.21:196][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Flying_eye/projectile_sprite] ([1] browsable assets)...
+[2024.05.08-16.21.21:199][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Flying_eye/projectile_sprite.projectile_sprite]
+[2024.05.08-16.21.21:199][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Flying_eye/projectile_sprite]
+[2024.05.08-16.21.21:199][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Flying_eye/projectile_sprite_Auto2
+[2024.05.08-16.21.21:199][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/projectile_sprite_Auto27000564748BA1BCB919EDD808A6E222D.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Flying_eye/projectile_sprite_Auto2.uasset'
+[2024.05.08-16.21.21:201][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Flying_eye/Take_Hit] ([1] browsable assets)...
+[2024.05.08-16.21.21:204][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Flying_eye/Take_Hit.Take_Hit]
+[2024.05.08-16.21.21:204][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Flying_eye/Take_Hit]
+[2024.05.08-16.21.21:205][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Flying_eye/Take_Hit_Auto2
+[2024.05.08-16.21.21:205][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Take_Hit_Auto29E2F6377481F0601799CE2BB4DDC3107.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Flying_eye/Take_Hit_Auto2.uasset'
+[2024.05.08-16.21.21:205][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Goblin/Attack] ([1] browsable assets)...
+[2024.05.08-16.21.21:208][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Goblin/Attack.Attack]
+[2024.05.08-16.21.21:208][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Goblin/Attack]
+[2024.05.08-16.21.21:208][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Attack" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Attack_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.21.21:209][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Goblin/Attack_Auto2
+[2024.05.08-16.21.21:209][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Auto208FB70FB4E001CFF40AA1B9AC91C7C09.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Attack_Auto2.uasset'
+[2024.05.08-16.21.21:210][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Goblin/Attack2] ([1] browsable assets)...
+[2024.05.08-16.21.21:212][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Goblin/Attack2.Attack2]
+[2024.05.08-16.21.21:212][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Goblin/Attack2]
+[2024.05.08-16.21.21:212][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Attack2" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Attack2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.21.21:214][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Goblin/Attack2_Auto2
+[2024.05.08-16.21.21:214][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack2_Auto230ABCD574200979D371F1F9152112FC7.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Attack2_Auto2.uasset'
+[2024.05.08-16.21.21:214][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Goblin/Attack3] ([1] browsable assets)...
+[2024.05.08-16.21.21:218][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Goblin/Attack3.Attack3]
+[2024.05.08-16.21.21:218][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Goblin/Attack3]
+[2024.05.08-16.21.21:218][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Attack3" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Attack3_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.21.21:219][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Goblin/Attack3_Auto2
+[2024.05.08-16.21.21:219][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack3_Auto2E7D3753245A54E4F40E0A9BBE9F2E618.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Attack3_Auto2.uasset'
+[2024.05.08-16.21.21:221][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Goblin/Bomb_sprite] ([1] browsable assets)...
+[2024.05.08-16.21.21:223][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Goblin/Bomb_sprite.Bomb_sprite]
+[2024.05.08-16.21.21:223][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Goblin/Bomb_sprite]
+[2024.05.08-16.21.21:224][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Goblin/Bomb_sprite_Auto2
+[2024.05.08-16.21.21:224][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Bomb_sprite_Auto2E2FBB06544A1231CAC464CB99D8E29C2.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Bomb_sprite_Auto2.uasset'
+[2024.05.08-16.21.21:224][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Goblin/Death] ([1] browsable assets)...
+[2024.05.08-16.21.21:227][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Goblin/Death.Death]
+[2024.05.08-16.21.21:227][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Goblin/Death]
+[2024.05.08-16.21.21:227][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Death" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Death_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.21.21:229][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Goblin/Death_Auto2
+[2024.05.08-16.21.21:229][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Death_Auto22B547A0D40AC96686DF8C78CDCFEEF94.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Death_Auto2.uasset'
+[2024.05.08-16.21.21:229][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Goblin/Idle] ([1] browsable assets)...
+[2024.05.08-16.21.21:236][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Goblin/Idle.Idle]
+[2024.05.08-16.21.21:236][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Goblin/Idle]
+[2024.05.08-16.21.21:236][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Idle" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Idle_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.21.21:238][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Goblin/Idle_Auto2
+[2024.05.08-16.21.21:238][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Idle_Auto25EB83FA04F2D63C66A3F9AAB13CE40B6.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Idle_Auto2.uasset'
+[2024.05.08-16.21.21:238][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Goblin/Run] ([1] browsable assets)...
+[2024.05.08-16.21.21:242][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Goblin/Run.Run]
+[2024.05.08-16.21.21:242][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Goblin/Run]
+[2024.05.08-16.21.21:242][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Run" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Run_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.21.21:243][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Goblin/Run_Auto2
+[2024.05.08-16.21.21:243][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Run_Auto2B9E07F114845C7C615EE6791656C25C8.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Run_Auto2.uasset'
+[2024.05.08-16.21.21:244][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssests/Goblin/Take_Hit] ([1] browsable assets)...
+[2024.05.08-16.21.21:247][611]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssests/Goblin/Take_Hit.Take_Hit]
+[2024.05.08-16.21.21:247][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssests/Goblin/Take_Hit]
+[2024.05.08-16.21.21:247][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Take_Hit" FILE="../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Take_Hit_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.05.08-16.21.21:248][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssests/Goblin/Take_Hit_Auto2
+[2024.05.08-16.21.21:248][611]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Take_Hit_Auto249E458C24C476E2DA78E27AEE8617789.tmp' to '../../../../../../Github/BeatEm_Up_Game/Saved/Autosaves/Game/PaperAssests/Goblin/Take_Hit_Auto2.uasset'
+[2024.05.08-16.21.21:249][611]LogFileHelpers: Auto-saving content packages took 0.142
+[2024.05.08-16.21.59:502][687]LogSlate: Window 'Extract sprites' being destroyed
+[2024.05.08-16.22.01:862][809]LogViewport: Scene viewport resized to 1618x1394, mode Windowed.
+[2024.05.08-16.22.01:919][810]LogViewport: Scene viewport resized to 1407x1394, mode Windowed.
+[2024.05.08-16.22.01:953][811]LogViewport: Scene viewport resized to 1391x1394, mode Windowed.
+[2024.05.08-16.26.49:658][926]LogSlate: Window 'Extract sprites' being destroyed
+[2024.05.08-16.26.58:232][420]LogContentBrowser: Deferred new asset file creation: Attack1
+[2024.05.08-16.26.58:252][420]LogContentBrowser: Creating deferred item: Attack1
+[2024.05.08-16.26.58:319][421]LogContentBrowser: Renaming the item being created (Deferred Item: Attack1).
+[2024.05.08-16.27.15:385][445]LogContentBrowser: Attempting asset rename: Attack1 -> S_Skeleton_Sprite_Attack_1
+[2024.05.08-16.27.15:386][445]LogContentBrowser: End creating deferred item Attack1
+[2024.05.08-16.27.16:802][529]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PaperAssests/Skeleton/Attack1/S_Skeleton_Sprite_Attack_1.S_Skeleton_Sprite_Attack_1
+[2024.05.08-16.27.16:803][529]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-16.27.16:803][529]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-16.27.16:904][529]LogViewport: Scene viewport resized to 1793x866, mode Windowed.
+[2024.05.08-16.27.33:477][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.27.33:552][504]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack1/S_Skeleton_Sprite_Attack_1
+[2024.05.08-16.27.33:552][504]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/S_Skeleton_Sprite_Attack_1B5107A544E98D60D173A458531E0F872.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/S_Skeleton_Sprite_Attack_1.uasset'
+[2024.05.08-16.27.33:562][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1.22 sec)
+[2024.05.08-16.27.33:563][504]AssetCheck: New page: Asset Save: S_Skeleton_Sprite_Attack_1
+[2024.05.08-16.27.33:563][504]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/PaperAssests/Skeleton/Attack1/S_Skeleton_Sprite_Attack_1.S_Skeleton_Sprite_Attack_1
+[2024.05.08-16.27.34:601][562]LogViewport: Scene viewport resized to 1793x867, mode Windowed.
+[2024.05.08-16.27.34:650][562]LogViewport: Scene viewport resized to 1793x868, mode Windowed.
+[2024.05.08-16.27.35:687][623]LogSlate: Window 'S_Skeleton_Sprite_Attack_1' being destroyed
+[2024.05.08-16.27.35:693][623]LogSlate: Window 'S_Skeleton_Sprite_Attack_1' being destroyed
+[2024.05.08-16.27.35:696][623]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-16.27.35:696][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-16.27.39:928][815]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.08-16.27.39:933][815]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.08-16.27.43:051][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.05.08-16.27.43:058][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.27.43:136][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Attack1/Attack" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack.uasset" SILENT=true
+[2024.05.08-16.27.43:137][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack1/Attack
+[2024.05.08-16.27.43:138][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack257BF14D454913A339E3EC871A511C9D.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack.uasset'
+[2024.05.08-16.27.43:139][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Mushroom/Attack" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Attack.uasset" SILENT=true
+[2024.05.08-16.27.43:141][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Mushroom/Attack
+[2024.05.08-16.27.43:141][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/AttackCDAB6F814B69FDDCA652F4B923A81ADF.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Attack.uasset'
+[2024.05.08-16.27.43:142][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Mushroom/Attack3" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Attack3.uasset" SILENT=true
+[2024.05.08-16.27.43:146][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Mushroom/Attack3
+[2024.05.08-16.27.43:146][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack36F87BB3C4A87372A3C5FD8B5565C33E9.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Attack3.uasset'
+[2024.05.08-16.27.43:146][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Mushroom/Attack2" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Attack2.uasset" SILENT=true
+[2024.05.08-16.27.43:149][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Mushroom/Attack2
+[2024.05.08-16.27.43:149][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack26FC9A4DB4E861B74F81070967EEAEAB1.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Attack2.uasset'
+[2024.05.08-16.27.43:149][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Mushroom/Death" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Death.uasset" SILENT=true
+[2024.05.08-16.27.43:152][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Mushroom/Death
+[2024.05.08-16.27.43:152][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Death1CCB5A0F4E3B2893F1B3ACA8C73D929F.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Death.uasset'
+[2024.05.08-16.27.43:152][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Mushroom/Idle" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Idle.uasset" SILENT=true
+[2024.05.08-16.27.43:154][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Mushroom/Idle
+[2024.05.08-16.27.43:154][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Idle82F71DDA45E67237F9000EBFB97950E1.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Idle.uasset'
+[2024.05.08-16.27.43:154][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Mushroom/Projectile_sprite" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Projectile_sprite.uasset" SILENT=true
+[2024.05.08-16.27.43:155][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Mushroom/Projectile_sprite
+[2024.05.08-16.27.43:155][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Projectile_sprite9D12DCA145E6A6B37AD5B7984B2E029D.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Projectile_sprite.uasset'
+[2024.05.08-16.27.43:156][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Mushroom/Run" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Run.uasset" SILENT=true
+[2024.05.08-16.27.43:158][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Mushroom/Run
+[2024.05.08-16.27.43:158][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Run51A33BB24330F730C95E6F82A90D9DE7.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Run.uasset'
+[2024.05.08-16.27.43:159][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Mushroom/Take_Hit" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Take_Hit.uasset" SILENT=true
+[2024.05.08-16.27.43:160][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Mushroom/Take_Hit
+[2024.05.08-16.27.43:160][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Take_Hit1D64770C44C9F7B4505D1DA78DCC67C9.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Mushroom/Take_Hit.uasset'
+[2024.05.08-16.27.43:161][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Flying_eye/Attack" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/Attack.uasset" SILENT=true
+[2024.05.08-16.27.43:163][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Flying_eye/Attack
+[2024.05.08-16.27.43:163][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack8E0DA31B4E9604D68BECC7AB68652298.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/Attack.uasset'
+[2024.05.08-16.27.43:163][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Flying_eye/Attack3" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/Attack3.uasset" SILENT=true
+[2024.05.08-16.27.43:166][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Flying_eye/Attack3
+[2024.05.08-16.27.43:166][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack38173C3C6407B6637D30A41B8E8D5284B.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/Attack3.uasset'
+[2024.05.08-16.27.43:166][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Flying_eye/Attack2" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/Attack2.uasset" SILENT=true
+[2024.05.08-16.27.43:169][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Flying_eye/Attack2
+[2024.05.08-16.27.43:169][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack2236527804ACE2C4F882A0EA9DDBDE613.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/Attack2.uasset'
+[2024.05.08-16.27.43:170][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Flying_eye/Death" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/Death.uasset" SILENT=true
+[2024.05.08-16.27.43:171][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Flying_eye/Death
+[2024.05.08-16.27.43:171][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/DeathCF8624FC41621AF920729D997AAB5B2A.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/Death.uasset'
+[2024.05.08-16.27.43:171][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Flying_eye/Flight" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/Flight.uasset" SILENT=true
+[2024.05.08-16.27.43:174][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Flying_eye/Flight
+[2024.05.08-16.27.43:174][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Flight7D2340814E9A5EB1BD3AA59453757A56.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/Flight.uasset'
+[2024.05.08-16.27.43:174][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Flying_eye/projectile_sprite" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/projectile_sprite.uasset" SILENT=true
+[2024.05.08-16.27.43:176][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Flying_eye/projectile_sprite
+[2024.05.08-16.27.43:176][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/projectile_sprite7AFEF3B54DDC60E5EC2707B3C835D697.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/projectile_sprite.uasset'
+[2024.05.08-16.27.43:176][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Flying_eye/Take_Hit" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/Take_Hit.uasset" SILENT=true
+[2024.05.08-16.27.43:178][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Flying_eye/Take_Hit
+[2024.05.08-16.27.43:178][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Take_HitADC4A79942677F42F6187D8CFE1B731E.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Flying_eye/Take_Hit.uasset'
+[2024.05.08-16.27.43:178][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Attack" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Attack.uasset" SILENT=true
+[2024.05.08-16.27.43:181][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Goblin/Attack
+[2024.05.08-16.27.43:181][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/AttackF9CDEF5D4B6EA4B71B6D60B3174A3EEE.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Attack.uasset'
+[2024.05.08-16.27.43:182][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Attack2" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Attack2.uasset" SILENT=true
+[2024.05.08-16.27.43:184][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Goblin/Attack2
+[2024.05.08-16.27.43:184][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack29E1E83F9483917A487C52A85331B6506.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Attack2.uasset'
+[2024.05.08-16.27.43:185][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Attack3" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Attack3.uasset" SILENT=true
+[2024.05.08-16.27.43:188][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Goblin/Attack3
+[2024.05.08-16.27.43:188][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack350F2E067451B570AEBBE3CB0B767B6C6.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Attack3.uasset'
+[2024.05.08-16.27.43:188][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Bomb_sprite" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Bomb_sprite.uasset" SILENT=true
+[2024.05.08-16.27.43:191][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Goblin/Bomb_sprite
+[2024.05.08-16.27.43:191][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Bomb_sprite4B74E28446B46981C068B1A5954CBD02.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Bomb_sprite.uasset'
+[2024.05.08-16.27.43:192][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Death" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Death.uasset" SILENT=true
+[2024.05.08-16.27.43:193][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Goblin/Death
+[2024.05.08-16.27.43:193][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Death92C199544C21EE5F4A6C1CAA80E314A3.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Death.uasset'
+[2024.05.08-16.27.43:194][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Idle" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Idle.uasset" SILENT=true
+[2024.05.08-16.27.43:196][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Goblin/Idle
+[2024.05.08-16.27.43:196][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/IdleFC9C52AE4BCCF16AA6BA78953B6DBEFF.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Idle.uasset'
+[2024.05.08-16.27.43:196][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Run" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Run.uasset" SILENT=true
+[2024.05.08-16.27.43:199][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Goblin/Run
+[2024.05.08-16.27.43:199][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/RunD2968042410CF0E542BB63B3BA86F97E.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Run.uasset'
+[2024.05.08-16.27.43:199][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Goblin/Take_Hit" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Take_Hit.uasset" SILENT=true
+[2024.05.08-16.27.43:201][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Goblin/Take_Hit
+[2024.05.08-16.27.43:201][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Take_Hit9F43C63D4BB6932E0EE18EBECE9EDD5C.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Goblin/Take_Hit.uasset'
+[2024.05.08-16.27.43:204][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_0" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_0.uasset" SILENT=true
+[2024.05.08-16.27.43:205][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_0
+[2024.05.08-16.27.43:205][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Sprite_0C81DBA7545B83AFCAFC119B1731D33F9.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_0.uasset'
+[2024.05.08-16.27.43:208][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_1" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_1.uasset" SILENT=true
+[2024.05.08-16.27.43:209][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_1
+[2024.05.08-16.27.43:209][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Sprite_134FDAE414A38C3C656D923A123BF491E.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_1.uasset'
+[2024.05.08-16.27.43:211][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_2" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_2.uasset" SILENT=true
+[2024.05.08-16.27.43:213][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_2
+[2024.05.08-16.27.43:213][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Sprite_2A03232C54900B7BAA13630A10AD30468.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_2.uasset'
+[2024.05.08-16.27.43:216][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_3" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_3.uasset" SILENT=true
+[2024.05.08-16.27.43:217][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_3
+[2024.05.08-16.27.43:217][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Sprite_3F473AA09497A3D0ACD7872BEC6C8C4B3.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_3.uasset'
+[2024.05.08-16.27.43:219][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_4" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_4.uasset" SILENT=true
+[2024.05.08-16.27.43:220][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_4
+[2024.05.08-16.27.43:220][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Sprite_4C814887F4B90DE89126234BCEFE56722.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_4.uasset'
+[2024.05.08-16.27.43:222][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_5" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_5.uasset" SILENT=true
+[2024.05.08-16.27.43:224][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_5
+[2024.05.08-16.27.43:224][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Sprite_5A3531FA34013416CC84458B65380B5D9.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_5.uasset'
+[2024.05.08-16.27.43:226][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_6" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_6.uasset" SILENT=true
+[2024.05.08-16.27.43:227][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_6
+[2024.05.08-16.27.43:227][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Sprite_682ABF8694BFE524BA6EF4CB16908A930.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_6.uasset'
+[2024.05.08-16.27.43:230][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_7" FILE="../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_7.uasset" SILENT=true
+[2024.05.08-16.27.43:231][987]LogSavePackage: Moving output files for package: /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_7
+[2024.05.08-16.27.43:231][987]LogSavePackage: Moving '../../../../../../Github/BeatEm_Up_Game/Saved/Attack_Sprite_7FF3213474B81A39381C68F8543773518.tmp' to '../../../../../../Github/BeatEm_Up_Game/Content/PaperAssests/Skeleton/Attack1/Attack_Sprite_7.uasset'
+[2024.05.08-16.27.43:240][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 1.41 sec)
+[2024.05.08-16.27.43:242][987]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Skeleton/Attack1/Attack.Attack
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Mushroom/Attack.Attack
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Mushroom/Attack3.Attack3
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Mushroom/Attack2.Attack2
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Mushroom/Death.Death
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Mushroom/Idle.Idle
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Mushroom/Projectile_sprite.Projectile_sprite
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Mushroom/Run.Run
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Mushroom/Take_Hit.Take_Hit
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Flying_eye/Attack.Attack
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Flying_eye/Attack3.Attack3
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Flying_eye/Attack2.Attack2
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Flying_eye/Death.Death
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Flying_eye/Flight.Flight
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Flying_eye/projectile_sprite.projectile_sprite
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Flying_eye/Take_Hit.Take_Hit
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Goblin/Attack.Attack
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Goblin/Attack2.Attack2
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Goblin/Attack3.Attack3
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Goblin/Bomb_sprite.Bomb_sprite
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Goblin/Death.Death
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Goblin/Idle.Idle
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Goblin/Run.Run
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssests/Goblin/Take_Hit.Take_Hit
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_0.Attack_Sprite_0
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_1.Attack_Sprite_1
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_2.Attack_Sprite_2
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_3.Attack_Sprite_3
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_4.Attack_Sprite_4
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_5.Attack_Sprite_5
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_6.Attack_Sprite_6
+[2024.05.08-16.27.43:242][987]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssests/Skeleton/Attack1/Attack_Sprite_7.Attack_Sprite_7
+[2024.05.08-16.27.44:298][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.08-16.27.44:299][ 47]LogStall: Shutdown...
+[2024.05.08-16.27.44:304][ 47]LogStall: Shutdown complete.
+[2024.05.08-16.27.44:318][ 47]LogSlate: Window 'BeatEm_Up_Game - Unreal Editor' being destroyed
+[2024.05.08-16.27.44:407][ 48]Cmd: QUIT_EDITOR
+[2024.05.08-16.27.44:407][ 48]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.08-16.27.44:410][ 48]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.08-16.27.44:410][ 48]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.08-16.27.44:410][ 48]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.08-16.27.44:411][ 48]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-16.27.44:411][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-16.27.44:414][ 48]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.08-16.27.44:625][ 48]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.08-16.27.44:626][ 48]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.08-16.27.44:626][ 48]LogAudio: Display: Audio Device unregistered from world 'MAP_Debug'.
+[2024.05.08-16.27.44:626][ 48]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.08-16.27.44:626][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.08-16.27.44:628][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.08-16.27.44:651][ 48]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.08-16.27.44:653][ 48]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2024.05.08-16.27.44:659][ 48]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.08-16.27.44:659][ 48]LogExit: Preparing to exit.
+[2024.05.08-16.27.44:667][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.08-16.27.45:608][ 48]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.08-16.27.45:608][ 48]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.08-16.27.45:608][ 48]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.08-16.27.45:608][ 48]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.08-16.27.45:608][ 48]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.08-16.27.45:608][ 48]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.08-16.27.45:608][ 48]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.08-16.27.45:609][ 48]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-16.27.45:675][ 48]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.08-16.27.45:679][ 48]LogExit: Editor shut down
+[2024.05.08-16.27.45:681][ 48]LogExit: Transaction tracking system shut down
+[2024.05.08-16.27.45:747][ 48]LogExit: Object subsystem successfully closed.
+[2024.05.08-16.27.45:753][ 48]LogShaderCompilers: Display: ================================================
+[2024.05.08-16.27.45:753][ 48]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.08-16.27.45:753][ 48]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.05.08-16.27.45:753][ 48]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.05.08-16.27.45:753][ 48]LogShaderCompilers: Display: RAM used: 240,00 B of 1,60 GiB budget. Usage: 0.00%
+[2024.05.08-16.27.45:753][ 48]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.08-16.27.45:753][ 48]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.08-16.27.45:753][ 48]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.08-16.27.45:753][ 48]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.08-16.27.45:753][ 48]LogShaderCompilers: Display: ================================================
+[2024.05.08-16.27.45:795][ 48]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.05.08-16.27.45:809][ 48]LogVirtualization: UE::Virtualization was shutdown
+[2024.05.08-16.27.45:827][ 48]LogModuleManager: Shutting down and abandoning module TextureEditor (1054)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1052)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module AddContentDialog (1050)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1049)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1046)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module SceneOutliner (1044)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module StatusBar (1042)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1040)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1038)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module StatsViewer (1036)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1034)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module AutomationWorker (1032)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1030)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1029)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1026)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1024)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module WebMMedia (1022)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1020)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1018)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1016)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1014)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (1012)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (1010)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (1008)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (1006)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (1004)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (1002)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1000)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module RigVMEditor (998)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (996)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module GooglePADEditor (994)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (992)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (990)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module PlanarCut (988)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module FractureEngine (986)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module CharacterAI (984)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (982)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module TextureAlignMode (980)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module BspMode (978)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module GeometryMode (976)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (974)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (972)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (970)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module SmartSnapping (968)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module IKRigEditor (966)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module ControlRigEditor (964)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (962)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module SessionServices (960)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module MeshPaint (958)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (956)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module PlacementMode (955)
+[2024.05.08-16.27.45:828][ 48]LogModuleManager: Shutting down and abandoning module FoliageEdit (952)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module LandscapeEditor (950)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (948)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module ActorPickerMode (946)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module ViewportSnapping (944)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module EditorWidgets (942)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module ViewportInteraction (940)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module ClothPainter (938)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (937)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module WidgetRegistration (934)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module LogVisualizer (932)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (930)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (928)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (927)
+[2024.05.08-16.27.45:829][ 48]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (925)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (922)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (920)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (918)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (916)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (914)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (912)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module AnimationSettings (910)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (908)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module CSVtoSVG (906)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (904)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module EditorConfig (902)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module EditorFramework (900)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (898)
+[2024.05.08-16.27.46:060][ 48]LogModuleManager: Shutting down and abandoning module TraceInsights (896)
+[2024.05.08-16.27.46:060][ 48]MemoryProfiler: Shutdown
+[2024.05.08-16.27.46:060][ 48]NetworkingProfiler: Shutdown
+[2024.05.08-16.27.46:060][ 48]LoadingProfiler: Shutdown
+[2024.05.08-16.27.46:060][ 48]TimingProfiler: Shutdown
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module TraceServices (895)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module TraceAnalysis (894)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (890)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (889)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module InputBindingEditor (886)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module MergeActors (884)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (882)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module LocalizationService (881)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module HardwareTargeting (878)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (876)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module UndoHistory (874)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module XmlParser (872)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module Blutility (870)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (868)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (867)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (864)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (863)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module SettingsEditor (860)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module ProjectLauncher (858)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module SessionFrontend (856)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module ProfilerClient (854)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module DeviceManager (852)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module AutomationController (850)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module AutomationWindow (848)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module Layers (846)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (844)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module DetailCustomizations (842)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module PackagesDialog (840)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (838)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module Persona (836)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (835)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module Kismet (832)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module KismetWidgets (831)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module GraphEditor (828)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module StructViewer (826)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module ClassViewer (824)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (822)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (820)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module SourceControlWindows (818)
+[2024.05.08-16.27.46:061][ 48]LogModuleManager: Shutting down and abandoning module OutputLog (816)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module Documentation (814)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (812)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (810)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module MovieScene (808)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (806)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (804)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (802)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module AudioMixer (801)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module AudioMixerCore (800)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module LauncherPlatform (796)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module AnalyticsET (794)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module PortalServices (792)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module PortalRpc (790)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module MessagingRpc (788)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module AIModule (786)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module GameplayDebugger (785)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module AITestSuite (783)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module NavigationSystem (781)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (778)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (776)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module TypedElementFramework (774)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (772)
+[2024.05.08-16.27.46:062][ 48]LogModuleManager: Shutting down and abandoning module ProfilerService (770)
+[2024.05.08-16.27.46:237][ 48]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (768)
+[2024.05.08-16.27.46:237][ 48]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (766)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (764)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (762)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (760)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module TakesCore (758)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module MegascansPlugin (756)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module Bridge (754)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (752)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (750)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module LightMixer (748)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (746)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (744)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module CollectionManager (743)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (740)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module MediaCompositing (738)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (736)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module MediaPlate (734)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ImgMedia (732)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (730)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module InterchangeTests (728)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module AlembicImporter (726)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module AlembicLibrary (725)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (722)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (720)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module InterchangeEditor (718)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (716)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (714)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (712)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module InterchangeExport (710)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module InterchangeMessages (708)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module GLTFCore (706)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module SynthesisEditor (704)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (702)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (700)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ResonanceAudio (698)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (696)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ModelingOperators (694)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (692)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ModelingComponents (690)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module GeometryFramework (689)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (686)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module MeshModelingTools (684)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module DynamicMesh (682)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (680)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (678)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module InputDebugging (676)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module GooglePAD (674)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (672)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module GeometryCache (670)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (668)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (666)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (664)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module AudioCapture (662)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (661)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (658)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module AssetTags (656)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (654)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (652)
+[2024.05.08-16.27.46:238][ 48]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (650)
+[2024.05.08-16.27.46:238][ 48]LogOpenImageDenoise: OIDN shutting down
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (648)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module AppleImageUtils (646)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module AndroidPermission (644)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (642)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (640)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (638)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (636)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module LocalizableMessage (634)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (632)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (630)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (628)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (626)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (624)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (622)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (620)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (618)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (616)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module MeshLODToolset (614)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module DataflowNodes (612)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (610)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module DataflowEditor (608)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module FractureEditor (606)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (604)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (602)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (600)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (598)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (596)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (595)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (593)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (590)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module ChaosNiagara (588)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (586)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (584)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (582)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (580)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module VariantManager (578)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (577)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module BackChannel (574)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (572)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module AutomationUtils (570)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (568)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (566)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (564)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (562)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (560)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module UVEditorTools (558)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module UVEditor (556)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (554)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (552)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module PluginBrowser (550)
+[2024.05.08-16.27.46:239][ 48]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (548)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module EditorDebugTools (546)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (544)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module DumpGPUServices (542)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (540)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module TakeSequencer (538)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module TakeMovieScene (536)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module CurveEditorTools (534)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (532)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module CryptoKeys (530)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module ChangelistReview (528)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (526)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (524)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (522)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module UObjectPlugin (520)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (518)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (516)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module PluginUtils (514)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (512)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module GitSourceControl (510)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (508)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module TemplateSequence (506)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (504)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module SequencerScripting (502)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (500)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (498)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module Paper2DEditor (496)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module ControlRigSpline (492)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (490)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (488)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (486)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (484)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (482)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module InputEditor (476)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (474)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (472)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module SoundFields (470)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module InterchangePipelines (468)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module InterchangeImport (466)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (464)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module InterchangeNodes (462)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module Synthesis (460)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (458)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module SignificanceManager (456)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (454)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module RigVM (452)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (450)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (448)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module MetasoundEditor (446)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module AudioWidgets (445)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (444)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (440)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module MetasoundEngine (438)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module WaveTable (437)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (435)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (432)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (430)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (428)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (426)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (424)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (422)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (421)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (418)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (416)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module CableComponent (414)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (412)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module Niagara (410)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module SignalProcessing (409)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module NiagaraEditor (407)
+[2024.05.08-16.27.46:240][ 48]LogModuleManager: Shutting down and abandoning module NiagaraCore (404)
+[2024.05.08-16.27.46:241][ 48]LogModuleManager: Shutting down and abandoning module StructUtils (402)
+[2024.05.08-16.27.46:241][ 48]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (400)
+[2024.05.08-16.27.46:255][ 48]LogModuleManager: Shutting down and abandoning module PBIK (398)
+[2024.05.08-16.27.46:255][ 48]LogModuleManager: Shutting down and abandoning module FullBodyIK (396)
+[2024.05.08-16.27.46:255][ 48]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (394)
+[2024.05.08-16.27.46:255][ 48]LogModuleManager: Shutting down and abandoning module TakeRecorder (393)
+[2024.05.08-16.27.46:255][ 48]LogModuleManager: Shutting down and abandoning module ChaosCaching (390)
+[2024.05.08-16.27.46:255][ 48]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2024.05.08-16.27.46:356][ 48]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2024.05.08-16.27.46:456][ 48]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (384)
+[2024.05.08-16.27.46:456][ 48]LogModuleManager: Shutting down and abandoning module FacialAnimation (382)
+[2024.05.08-16.27.46:456][ 48]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (380)
+[2024.05.08-16.27.46:456][ 48]LogModuleManager: Shutting down and abandoning module DataValidation (378)
+[2024.05.08-16.27.46:456][ 48]LogModuleManager: Shutting down and abandoning module AnimationData (376)
+[2024.05.08-16.27.46:456][ 48]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (374)
+[2024.05.08-16.27.46:456][ 48]LogModuleManager: Shutting down and abandoning module LevelEditor (373)
+[2024.05.08-16.27.46:463][ 48]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (372)
+[2024.05.08-16.27.46:463][ 48]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (370)
+[2024.05.08-16.27.46:464][ 48]LogModuleManager: Shutting down and abandoning module MainFrame (368)
+[2024.05.08-16.27.46:464][ 48]LogModuleManager: Shutting down and abandoning module HotReload (367)
+[2024.05.08-16.27.46:464][ 48]LogModuleManager: Shutting down and abandoning module ContentBrowser (363)
+[2024.05.08-16.27.46:464][ 48]LogModuleManager: Shutting down and abandoning module ToolMenus (362)
+[2024.05.08-16.27.46:464][ 48]LogModuleManager: Shutting down and abandoning module ContentBrowserData (360)
+[2024.05.08-16.27.46:464][ 48]LogModuleManager: Shutting down and abandoning module TreeMap (357)
+[2024.05.08-16.27.46:464][ 48]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (354)
+[2024.05.08-16.27.46:464][ 48]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (352)
+[2024.05.08-16.27.46:464][ 48]LogModuleManager: Shutting down and abandoning module AnimationSharing (350)
+[2024.05.08-16.27.46:464][ 48]LogModuleManager: Shutting down and abandoning module ActorSequence (348)
+[2024.05.08-16.27.46:464][ 48]LogModuleManager: Shutting down and abandoning module PaperZDEditor (346)
+[2024.05.08-16.27.46:464][ 48]LogModuleManager: Shutting down and abandoning module PaperZD (344)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module Paper2D (342)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (340)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module IKRig (338)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (336)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module ControlRig (334)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module Constraints (333)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module LevelSequence (331)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module GameplayCameras (328)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (320)
+[2024.05.08-16.27.46:465][ 48]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (318)
+[2024.05.08-16.27.46:471][ 48]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.05.08-16.27.46:471][ 48]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.05.08-16.27.46:471][ 48]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.05.08-16.27.46:471][ 48]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.05.08-16.27.46:472][ 48]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.05.08-16.27.46:473][ 48]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.05.08-16.27.46:473][ 48]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.05.08-16.27.46:473][ 48]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.05.08-16.27.46:473][ 48]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.05.08-16.27.46:473][ 48]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.05.08-16.27.46:473][ 48]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.05.08-16.27.46:473][ 48]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.05.08-16.27.46:473][ 48]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.05.08-16.27.46:487][ 48]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.05.08-16.27.46:488][ 48]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.05.08-16.27.46:488][ 48]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.05.08-16.27.46:488][ 48]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.05.08-16.27.46:488][ 48]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.05.08-16.27.46:488][ 48]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.05.08-16.27.46:488][ 48]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.05.08-16.27.46:499][ 48]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.05.08-16.27.46:499][ 48]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.05.08-16.27.46:499][ 48]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.05.08-16.27.46:499][ 48]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.05.08-16.27.46:505][ 48]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.05.08-16.27.46:506][ 48]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.05.08-16.27.46:506][ 48]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.05.08-16.27.46:506][ 48]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.05.08-16.27.46:506][ 48]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.05.08-16.27.46:506][ 48]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.05.08-16.27.46:506][ 48]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.05.08-16.27.46:506][ 48]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.05.08-16.27.46:506][ 48]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.05.08-16.27.46:506][ 48]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.05.08-16.27.46:507][ 48]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.05.08-16.27.46:507][ 48]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.05.08-16.27.46:507][ 48]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.05.08-16.27.46:507][ 48]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.05.08-16.27.46:507][ 48]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.05.08-16.27.46:507][ 48]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.05.08-16.27.46:507][ 48]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.05.08-16.27.46:507][ 48]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.05.08-16.27.46:507][ 48]LogModuleManager: Shutting down and abandoning module AISupportModule (122)
+[2024.05.08-16.27.46:507][ 48]LogModuleManager: Shutting down and abandoning module WmfMedia (120)
+[2024.05.08-16.27.46:514][ 48]LogModuleManager: Shutting down and abandoning module Media (119)
+[2024.05.08-16.27.46:518][ 48]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (116)
+[2024.05.08-16.27.46:518][ 48]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (114)
+[2024.05.08-16.27.46:518][ 48]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (112)
+[2024.05.08-16.27.46:518][ 48]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (110)
+[2024.05.08-16.27.46:518][ 48]LogModuleManager: Shutting down and abandoning module ChunkDownloader (108)
+[2024.05.08-16.27.46:518][ 48]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (106)
+[2024.05.08-16.27.46:518][ 48]LogModuleManager: Shutting down and abandoning module NiagaraShader (104)
+[2024.05.08-16.27.46:518][ 48]LogModuleManager: Shutting down and abandoning module VariantManagerContent (102)
+[2024.05.08-16.27.46:518][ 48]LogModuleManager: Shutting down and abandoning module ChaosCloth (100)
+[2024.05.08-16.27.46:518][ 48]LogModuleManager: Shutting down and abandoning module GLTFExporter (98)
+[2024.05.08-16.27.46:518][ 48]LogModuleManager: Shutting down and abandoning module DatasmithContent (96)
+[2024.05.08-16.27.46:518][ 48]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (94)
+[2024.05.08-16.27.46:521][ 48]LogModuleManager: Shutting down and abandoning module XMPP (89)
+[2024.05.08-16.27.46:521][ 48]LogModuleManager: Shutting down and abandoning module WebSockets (88)
+[2024.05.08-16.27.46:530][ 48]LogModuleManager: Shutting down and abandoning module HTTP (85)
+[2024.05.08-16.27.46:530][ 48]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.05.08-16.27.46:530][ 48]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B03E1C21F-4D00-3E30-E24D-A6AA16386CA8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=0a25a5314974db9aff87ceaae5498739%7C2acab0fdd7cb48498cd5949f3f9d7515%7Cb4c09f2f-e023-4628-8b6d-56e26819b1df&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.05.08-16.27.46:554][ 48]LogModuleManager: Shutting down and abandoning module SSL (84)
+[2024.05.08-16.27.46:557][ 48]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (80)
+[2024.05.08-16.27.46:557][ 48]RenderDocPlugin: plugin has been unloaded.
+[2024.05.08-16.27.46:557][ 48]LogModuleManager: Shutting down and abandoning module PixWinPlugin (78)
+[2024.05.08-16.27.46:557][ 48]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2024.05.08-16.27.46:557][ 48]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (74)
+[2024.05.08-16.27.46:557][ 48]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (72)
+[2024.05.08-16.27.46:557][ 48]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (70)
+[2024.05.08-16.27.46:557][ 48]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (68)
+[2024.05.08-16.27.46:557][ 48]LogModuleManager: Shutting down and abandoning module ACLPlugin (66)
+[2024.05.08-16.27.46:557][ 48]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.05.08-16.27.46:557][ 48]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2024.05.08-16.27.46:558][ 48]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2024.05.08-16.27.46:558][ 48]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2024.05.08-16.27.46:558][ 48]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2024.05.08-16.27.46:558][ 48]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2024.05.08-16.27.46:558][ 48]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2024.05.08-16.27.46:558][ 48]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2024.05.08-16.27.46:558][ 48]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.05.08-16.27.46:558][ 48]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.05.08-16.27.46:559][ 48]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.05.08-16.27.46:559][ 48]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.05.08-16.27.46:559][ 48]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.05.08-16.27.46:559][ 48]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.05.08-16.27.46:559][ 48]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.05.08-16.27.46:559][ 48]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.05.08-16.27.46:559][ 48]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.05.08-16.27.46:559][ 48]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.05.08-16.27.46:559][ 48]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.05.08-16.27.46:559][ 48]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.05.08-16.27.46:559][ 48]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.05.08-16.27.46:560][ 48]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.05.08-16.27.46:560][ 48]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.05.08-16.27.46:560][ 48]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.05.08-16.27.46:560][ 48]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.05.08-16.27.46:560][ 48]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.05.08-16.27.46:560][ 48]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.05.08-16.27.46:560][ 48]LogPakFile: Destroying PakPlatformFile
+[2024.05.08-16.27.46:560][ 48]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.05.08-16.27.46:560][ 48]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.05.08-16.27.46:560][ 48]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.05.08-16.27.46:560][ 48]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.05.08-16.27.46:560][ 48]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.05.08-16.27.46:714][ 48]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.05.08-16.27.46:757][ 48]LogExit: Exiting.
+[2024.05.08-16.27.46:769][ 48]Log file closed, 05/08/24 18:27:46
